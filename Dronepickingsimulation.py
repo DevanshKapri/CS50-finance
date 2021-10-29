@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-city_list = np.array([[2,4],[2,2],[3,2],[3,4]])
+city_list = np.array([[4,6],[3,9],[5,8],[7,2]])
 
 solution = np.arange(city_list.shape[0])
 city_locations = np.concatenate((np.array([city_list[solution[i]] for i in range(len(solution))])))
