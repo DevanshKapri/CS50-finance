@@ -1,7 +1,7 @@
 # Finalysis
 A web app via which we can manage portfolios of stocks. This tool allows us to check real stocks’ actual prices and portfolios’ values, it will also let you buy (okay, “buy”) and sell (okay, “sell”) stocks by querying IEX for stocks’ prices.
 
-##Configuring
+## Configuring
 Before getting started on this assignment, we’ll need to register for an API key in order to be able to query IEX’s data. To do so, follow these steps:
 
 - Visit iexcloud.io/cloud-login#/register/.
